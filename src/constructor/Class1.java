@@ -15,7 +15,7 @@ public class Class1 {
 	}
 	
 	
-	Class1(int x)// Constructor with input parameter
+	Class1(int x)// Constructor with input 
 
 {
 	 a =x;
