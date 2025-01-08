@@ -3,7 +3,7 @@ package calculator;
 public class Calculatorlogicclass {
 	
 	static int z= 10;//global variable
-	  String s="welcome to calculator logic";// Instance variable
+	  String s="welcome to calculator logic";// Instance variable ,it is not static under class level
 	
 	public void add(int x, int y)
 	{
