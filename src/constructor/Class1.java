@@ -8,7 +8,7 @@ public class Class1 {
 	int b;
 	public int c=1000;
 	boolean bool;
-	
+	// this is a constructor with class name
 	Class1()// Constructor with no input parameter
 	{
 		a=500;
